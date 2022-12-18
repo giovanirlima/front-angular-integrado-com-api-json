@@ -1,0 +1,40 @@
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.red {
+    color: red
+}
+
+.black {
+    color: black;
+}
+
+.white {
+    color: white;
+}
+
+.i-middle {
+    vertical-align: middle;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.msg-sucess {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.msg-failed {
+    background-color: red;
+    color: white;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.btn-delete {
+    left: 10px;
+}

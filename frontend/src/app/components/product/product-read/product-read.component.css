@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+}
+
+i.color-hover:hover {
+    color: black;
+}
+
+a.edit {
+    margin-right: 10px;
+}
